@@ -35,7 +35,7 @@ class TileMap extends egret.DisplayObjectContainer {
             var gridX = Math.floor(localX / TileMap.TILE_SIZE);
             var gridY = Math.floor(localY / TileMap.TILE_SIZE);
             this._astar = new AStar();
-            var grid = new Grid(12, 12, config);
+            var grid = new Grid(10, 10, config);
             grid.setStartNode(playerX, playerY);
             grid.setEndNode(gridX, gridY);
             if (this._astar.findPath(grid)) {
@@ -72,9 +72,10 @@ class TileMap extends egret.DisplayObjectContainer {
 
 var config: TileData[] = [
 
+ 
     { x: 0, y: 0, walkable: true, image: "Floor_jpg" },
     { x: 1, y: 0, walkable: true, image: "Floor_jpg" },
-    { x: 2, y: 0, walkable: true, image: "zhangai_jpg" },
+    { x: 2, y: 0, walkable: true, image: "Floor_jpg" },
     { x: 3, y: 0, walkable: false, image: "zhangai_jpg"},
     { x: 4, y: 0, walkable: true, image: "Floor_jpg" },
     { x: 5, y: 0, walkable: false, image: "zhangai_jpg" },
@@ -189,6 +190,7 @@ var config: TileData[] = [
     { x: 7, y: 9, walkable: false, image: "zhangai_jpg"},
     { x: 8, y: 9, walkable: true, image: "Floor_jpg" },
     { x: 9, y: 9, walkable: true, image: "Floor_jpg" },
+
 
 ]
 
