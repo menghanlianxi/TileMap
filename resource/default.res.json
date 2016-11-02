@@ -1,0 +1,150 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,walk_1_png,walk_2_png,walk_3_png,walk_4_png,walk_5_png,walk_6_png,walk_7_png,walk_8_png,walk_9_png,walk_10_png,walk_11_png,walk_12_png,idle_1_png,idle_2_png,idle_3_png,idle_4_png,idle_5_png,idle_6_png,idle_7_png,idle_8_png,idle_9_png,idle_10_png,idle_11_png,idle_12_png,dimian_jpg,zhangai_jpg,Floor_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "walk_1_png",
+			"type": "image",
+			"url": "assets/walk_1.png"
+		},
+		{
+			"name": "walk_2_png",
+			"type": "image",
+			"url": "assets/walk_2.png"
+		},
+		{
+			"name": "walk_3_png",
+			"type": "image",
+			"url": "assets/walk_3.png"
+		},
+		{
+			"name": "walk_4_png",
+			"type": "image",
+			"url": "assets/walk_4.png"
+		},
+		{
+			"name": "walk_5_png",
+			"type": "image",
+			"url": "assets/walk_5.png"
+		},
+		{
+			"name": "walk_6_png",
+			"type": "image",
+			"url": "assets/walk_6.png"
+		},
+		{
+			"name": "walk_7_png",
+			"type": "image",
+			"url": "assets/walk_7.png"
+		},
+		{
+			"name": "walk_8_png",
+			"type": "image",
+			"url": "assets/walk_8.png"
+		},
+		{
+			"name": "walk_9_png",
+			"type": "image",
+			"url": "assets/walk_9.png"
+		},
+		{
+			"name": "walk_10_png",
+			"type": "image",
+			"url": "assets/walk_10.png"
+		},
+		{
+			"name": "walk_11_png",
+			"type": "image",
+			"url": "assets/walk_11.png"
+		},
+		{
+			"name": "walk_12_png",
+			"type": "image",
+			"url": "assets/walk_12.png"
+		},
+		{
+			"name": "idle_1_png",
+			"type": "image",
+			"url": "assets/idle_1.png"
+		},
+		{
+			"name": "idle_2_png",
+			"type": "image",
+			"url": "assets/idle_2.png"
+		},
+		{
+			"name": "idle_3_png",
+			"type": "image",
+			"url": "assets/idle_3.png"
+		},
+		{
+			"name": "idle_4_png",
+			"type": "image",
+			"url": "assets/idle_4.png"
+		},
+		{
+			"name": "idle_5_png",
+			"type": "image",
+			"url": "assets/idle_5.png"
+		},
+		{
+			"name": "idle_6_png",
+			"type": "image",
+			"url": "assets/idle_6.png"
+		},
+		{
+			"name": "idle_7_png",
+			"type": "image",
+			"url": "assets/idle_7.png"
+		},
+		{
+			"name": "idle_8_png",
+			"type": "image",
+			"url": "assets/idle_8.png"
+		},
+		{
+			"name": "idle_9_png",
+			"type": "image",
+			"url": "assets/idle_9.png"
+		},
+		{
+			"name": "idle_10_png",
+			"type": "image",
+			"url": "assets/idle_10.png"
+		},
+		{
+			"name": "idle_11_png",
+			"type": "image",
+			"url": "assets/idle_11.png"
+		},
+		{
+			"name": "idle_12_png",
+			"type": "image",
+			"url": "assets/idle_12.png"
+		},
+		{
+			"name": "Floor_jpg",
+			"type": "image",
+			"url": "assets/Floor.jpg"
+		},
+		{
+			"name": "zhangai_jpg",
+			"type": "image",
+			"url": "assets/zhangai.jpg"
+		},
+		{
+			"name": "Floor_jpg",
+			"type": "image",
+			"url": "assets/Floor.jpg"
+		}
+	]
+}
